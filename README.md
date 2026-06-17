@@ -4,6 +4,23 @@ AO3 Focus Mode Bookmarklet is a small browser bookmarklet project for reading Ar
 
 The project is unofficial and is not affiliated with Archive of Our Own, the Organization for Transformative Works, or any browser vendor.
 
+<p align="center">
+  <img src="assets/ao3_focus.gif" alt="AO3 Focus Bookmarklet" width="720">
+</p>
+
+The referenced work, author profile, and series belong to their respective AO3 creator (See more in the `Video tutorial` section).
+
+## Video tutorial
+
+[Watch the step-by-step installation guide on YouTube](https://www.youtube.com/watch?v=qyFPsbTBrt4)
+
+The tutorial uses real AO3 data for an objective demonstration:
+
+- Work: [Deliverance](https://archiveofourown.org/works/69891001)
+- Author: [LadyOfRandom](https://archiveofourown.org/users/LadyOfRandom/pseuds/LadyOfRandom)
+
+The referenced work, author profile, and series belong to their respective AO3 creator.
+
 ## Features
 
 - Toggle reading focus mode on AO3 work pages.
