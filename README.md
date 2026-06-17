@@ -92,7 +92,7 @@ The raw bookmarklet is easier to inspect. The encoded bookmarklet is more URL-sa
 
 The main configuration values are inside the CSS template string in `ao3-focus.js`.
 
-- `font-family`: Font family applied to reading text.
+- `font-family`: Font family applied to reading text (defaults to `"Cambria", serif`).
 - `background`: Body background color.
 - `background-color`: Reading container background.
 - `font-size`: Main content text size.
