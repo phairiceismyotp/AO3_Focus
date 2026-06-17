@@ -100,7 +100,7 @@ Before installing, users are encouraged to review the readable source code and b
 
 ## Acknowledgements
 
-My deepest thanks go to the friends and beta testers from the PhaiRice shipper community. Your support, testing, and suggestions helped shape this project from a small personal tool into something worth sharing.
+My deepest thanks go to the friends and beta testers from the Phainon x Castorice (PhaiRice) shipper community. Your support, testing, and suggestions helped shape this project from a small personal tool into something worth sharing.
 
 Thank you, sincerely.
 
