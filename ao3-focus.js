@@ -13,7 +13,7 @@
       font-size: 21px !important;
       max-width: 760px !important;
       margin: 0 auto !important;
-      padding: 2% 4% !important;
+      padding: 2em 2.5em !important;
       border: 1px solid #dddddd !important;
       box-shadow: 0 4px 25px rgba(0,0,0,0.06) !important;
     }
@@ -81,7 +81,7 @@
 
   function enable() {
     if (document.getElementById(STYLE_ID)) return;
-    document.documentElement.requestFullscreen?.().catch(() => {});
+    document.documentElement.requestFullscreen?.().catch(() => { });
     withAnchor(() => {
       const style = mk('style', STYLE_ID);
       style.textContent = CSS;
@@ -101,7 +101,7 @@
     });
     window.removeEventListener('scroll', onScroll);
     document.removeEventListener('fullscreenchange', onFsChange);
-    if (document.fullscreenElement) document.exitFullscreen?.().catch(() => {});
+    if (document.fullscreenElement) document.exitFullscreen?.().catch(() => { });
   }
 
   document.getElementById(STYLE_ID) ? disable() : enable();
